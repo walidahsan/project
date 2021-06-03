@@ -1,0 +1,10 @@
+.bshadow{
+    box-shadow: 0 0 10px 0 black;
+}
+.mybtn{
+    border-radius: 50px;
+    border: blue ;
+}
+.hline{
+    border-top: 1px soldi grey;
+}

@@ -1,0 +1,20 @@
+.search-crse{
+    width: 400px;
+    height: 28px;
+    padding:0 3px;
+    border : 2px solid #2980b9; 
+    border-radius: 200px;
+    }
+
+.btn-full:link,
+.btn-full:visited{
+  margin-left: 5px;
+  width: 150px;
+  padding: 0;
+  border : 2px solid #2980b9;  
+  border-radius: 200px;
+  background-color: #5f49f8;
+  color: white;
+  margin-bottom: 10px;
+}
+

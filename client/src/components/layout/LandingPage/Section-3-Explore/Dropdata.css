@@ -1,0 +1,12 @@
+.position{
+    position:relative;
+}
+
+
+.arrowpic{
+position: absolute;
+top: 22px;
+right: 28px;
+cursor: pointer;
+
+}

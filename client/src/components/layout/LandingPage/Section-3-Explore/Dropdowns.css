@@ -1,0 +1,21 @@
+.buttonStyle{
+    background-color:#5f49f8;
+    color: white;
+    text-align:left;
+    font-size: 32px;
+    border-radius: 200px;
+    border: #5f49f8 2px solid;
+    cursor: pointer;
+    position: relative;
+}
+
+.buttonStyle1{
+    background-color:#FF8C00;
+    color: white;
+    text-align:left;
+    font-size: 32px;
+    border-radius: 200px;
+    border: none;
+    border: #FF8C00 2px solid;
+    cursor: pointer;
+}
